@@ -6,6 +6,10 @@ A simple Flask-based web application project.
 
 **FlaskApp** is a lightweight web application built using the [Flask](https://flask.palletsprojects.com/) micro-framework for Python. This project serves as a starting template for building scalable web applications or APIs with Flask.
 
+## Live Demo
+
+You can try the application live at: [https://fosterk.pythonanywhere.com/](https://fosterk.pythonanywhere.com/)
+
 ## Features
 
 - Minimal, easy-to-understand project structure
